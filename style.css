@@ -51,6 +51,10 @@ main li:last-child {
     margin-right: 0px;
 }
 
+section {
+    height: auto;
+}
+
 section img {
     float: left;
 }
@@ -97,5 +101,5 @@ footer {
     background: #444;
     height: 150px;
     clear: both;
-    margin-top: 30px;
+    margin-top: 50px;
 }
